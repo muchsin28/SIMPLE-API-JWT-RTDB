@@ -1,5 +1,5 @@
 # SIMPLE LOGIN API
-## Simple Login API With JWT AUthentication and Firebase Realtime Database
+### Simple Login API With JWT Authentication and Firebase Realtime Database
 
 ## Introduction
 
