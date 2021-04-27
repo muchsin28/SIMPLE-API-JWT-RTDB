@@ -1,4 +1,4 @@
-# Simple-login-JWT
+# Simple Login API With JWT AUthentication and Firebase Realtime Database
 
 ## Introduction
 
